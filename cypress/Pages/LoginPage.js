@@ -1,6 +1,6 @@
 
 
-export class LoguinPage{
+export class LoginPage{
     constructor (){
 this.lnkLogininit = 'a[href="/login?return_to="]'
 this.txtEmailAdress = '#username'
@@ -20,4 +20,4 @@ this.txtpassword = 'password'
 
 }
 
-export const loguinPage = new LoguinPage();
+export const loginPage = new LoginPage();

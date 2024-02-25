@@ -15,7 +15,7 @@ describe ("Initial Screen and search button join today",function (){
 
     })
 
-    it("Loguin", function (){
+    it("Login", function (){
       cy.visit('/')
      
 
